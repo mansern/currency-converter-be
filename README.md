@@ -1,156 +1,32 @@
-## attendance
+# Foreign currency converter backend app developed in NestJS
 
-[Nest](https://github.com/nestjs/nest) framework based project
+It is the backend of the foreign currnency converter app developed in Nestjs. 
 
-## Prerequisites
+# Getting Started
 
-What things you need to install the software and how to install them
-Git & NPM or Yarn installed on your local machine
+These instructions will get you a copy of the project up and running on your local machine for development.
 
-## Installation
-
-clone the repository from the github by using the below command into your development directory
-
-````bash
-$ git clone
-
-[Nest](https://github.com/nestjs/nest) framework based project
-
-## Prerequisites
+# Prerequisites
 
 What things you need to install the software and how to install them
+
+```
 Git & NPM or Yarn installed on your local machine
-
-## Installation
-
-clone the repository from the github by using the below command into your development directory
-
-```bash
-$ git clone
-````
-
-install the dependencies using the command below
-
-```bash
-$ npm install
-or
-$ yarn install
 ```
 
-Rename the .env.sample to .env and replace the variables with your variables.
+# Installation
 
-## Running the app
-
-````bash
-# development
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```## attendance
-
-[Nest](https://github.com/nestjs/nest) framework based project
-
-## Prerequisites
-
-What things you need to install the software and how to install them
-Git & NPM or Yarn installed on your local machine
-
-## Installation
-
-clone the repository from the github by using the below command into your development directory
-
-```bash
-$ git clone
-````
-
-install the dependencies using the command below
-
-```bash
-$ npm install
-or
-$ yarn install
 ```
 
-create a new file named ormconfig.json in the root directory of the project.
-Rename the .env.sample to .env and replace the variables with your variables.
+$ git clone https://github.com/mansern/currency-converter-be
+$ npm install && npm run start:dev
 
-## Running the app
-
-```bash
-# development
-$ npm run start:dev
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
 ```
 
-## Test
+# Test
 
-```bash
-# unit tests
+```
+
 $ npm run test
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-hman/NestJsStarter.git
-
-````
-
-install the dependencies using the command below
-
-```bash
-$ npm install
-or
-$ yarn install
-````
-
-create a new file named ormconfig.json in the root directory of the project.
-Rename the .env.sample to .env and replace the variables with your variables.
-
-## Running the app
-
-```bash
-# development
-$ npm run start:dev
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
 ```
