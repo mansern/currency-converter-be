@@ -30,3 +30,11 @@ $ npm install && npm run start:dev
 $ npm run test
 
 ```
+
+# Front-end Repo for this project
+
+```
+
+$ https://github.com/mansern/currency-converter-fe.git
+
+```
